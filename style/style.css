@@ -6,7 +6,7 @@
 /* HEADER PART */
 
 .main-header{
-    background-color: rgb(216, 142, 167);
+    background-color: rgb(205, 160, 175);
     height: 500px;
     display: flex;
     justify-content: space-around;
@@ -27,6 +27,7 @@
     text-transform: capitalize;
     font-weight: 18px;
     font-size: 15px;
+    color: #181818;
 }
 .prymari-btn{
     margin-top: 20px;
@@ -40,4 +41,61 @@
 }
 .right-part{
     margin-left: 40px;
+}
+/* main part */
+
+.main1-title{
+    text-align: center;
+    margin-top: 100px;
+}
+.main1-title-h3{
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    font-weight: 25px;
+}
+.main1-title-p{
+    color: #181818;
+    font-size: 13px;
+}
+
+/* main manu part 2 */
+.pink-flower{
+    display: flex;
+    gap: 30px;
+    margin:60px 417px;
+    
+}
+.pink-f-s{
+    height: 200px;
+    width: 150px;
+    background-color: #78C1F3;
+    padding: 30px;
+    border-radius: 95px 95px 5px 5px;
+    
+}
+.flower-container{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.pink-flowers-title{
+    margin-left: 50px;
+    color: #181818;
+    margin-top: 15px;
+}
+
+/* main part 3 */
+.main3-containner{
+    display: flex;
+    gap: 50px;
+    height: 150px;
+    width: 500px;
+    background-color: rgb(229, 228, 228);
+    margin: 70px auto;
+    padding: 35px 90px 25px 90px;
+    border-radius: 5px;
+}
+.gray-box-dicp{
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #181818;
 }
