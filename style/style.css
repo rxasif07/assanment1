@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* HEADER PART */
+
+.main-header{
+    background-color: rgb(216, 142, 167);
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+}
+.header-img{
+    height: 500px;
+    width: 400px;
+}
+.header-title{
+    font-size: 30px;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-decoration: dotted;
+}
+.header-dicp{
+    text-transform: capitalize;
+    font-weight: 18px;
+    font-size: 15px;
+}
+.prymari-btn{
+    margin-top: 20px;
+    padding: 9px 13px;
+    border-radius: 5px;
+    border: 0;
+    background-color: orangered;
+    color: aliceblue;
+
+
+}
+.right-part{
+    margin-left: 40px;
+}
