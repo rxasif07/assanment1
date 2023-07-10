@@ -181,3 +181,19 @@
     border: 0px;
 
 }
+/* footer part */
+.main-footer{
+    background-color: black;
+    height: 300px;
+    text-align: center;
+    color: rgb(234, 240, 245);
+}
+.footer-title{
+    padding-top: 40px;
+}
+.span{
+    color: red;
+}
+.footer-dicp{
+    margin: 10px 0px;
+}
