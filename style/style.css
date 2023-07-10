@@ -7,15 +7,16 @@
 
 .main-header{
     background-color: rgb(205, 160, 175);
-    height: 500px;
+    height: 470px;
     display: flex;
     justify-content: space-around;
     align-items: center;
     gap: 100px;
 }
 .header-img{
-    height: 500px;
+    height: 470px;
     width: 400px;
+    
 }
 .header-title{
     font-size: 30px;
@@ -98,4 +99,25 @@
     margin-right: 10px;
     margin-top: 10px;
     color: #181818;
+}
+
+/* main part 4 */
+
+.main4-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(237, 226, 237);
+    padding: 40px 0px;
+    margin-top: 40px;
+    height: 370px;
+    margin-bottom: 100px;
+}
+.main4-taitle{
+    font-size: 30px;
+    margin-bottom: 17px;
+}
+.main4-img{
+    height: 300px;
+    width: 250px;
 }
