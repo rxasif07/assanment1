@@ -148,7 +148,7 @@
 }
 /* main6 part */
 .main6-container{
-    background-image: url("/cover3.png");
+    background-image: url("../cover3.png");
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
